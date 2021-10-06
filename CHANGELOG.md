@@ -1,3 +1,9 @@
+## v1.3.1 (2021-10-06)
+
+### Fix
+
+- **all-request**: test changelog
+
 ## v1.3.0 (2021-10-06)
 
 ### Feat
