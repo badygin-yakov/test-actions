@@ -1,3 +1,9 @@
+## v1.2.0 (2021-10-06)
+
+### Feat
+
+- **sku-search**: add new sku search (#2)
+
 ## v1.1.0 (2021-10-06)
 
 ### Feat
