@@ -1,15 +1,13 @@
 name: Release builder
 
 on:
-  push:
-    branches: [ master ]
   pull_request:
     types: [ closed ]
     branches: [ master ]
 
 jobs:
   tag-push-release:
-    if: github.event.pull_request.merged == true || github.ref == 'refs/heads/master'
+    if: github.event.pull_request.merged == true
 
     runs-on: ubuntu-latest
     steps:
