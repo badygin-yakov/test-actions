@@ -1,3 +1,9 @@
+## v1.4.0 (2021-10-07)
+
+### Feat
+
+- **photo-request**: add new acceptance (#9)
+
 ## v1.3.1 (2021-10-06)
 
 ### Fix
